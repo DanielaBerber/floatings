@@ -21,3 +21,10 @@ div{
 	background-color: pink;
 	display: block;
 }
+.clearfix:before, .clearfix:after{
+	content: "";
+	display: table;
+}
+.clearfix:after{
+	clear: both;
+}
