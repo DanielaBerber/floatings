@@ -1,0 +1,23 @@
+div{
+	height: 100px;
+	width: 200px;
+	float: left;
+}
+.grande{
+	width: 900px;
+	border:2px solid gray; 
+	margin-top:20px;
+	background-color: white;
+}
+.amarillo{
+	background-color: yellow;
+	display: block;
+}
+.azul{
+	background-color: blue;
+	display: block;
+}
+.rosa{
+	background-color: pink;
+	display: block;
+}
